@@ -35,10 +35,9 @@ int main()
 		}
 		printf("\n\n");
 	}
-  
-    ("\n Do you'r matrix\nSyntax: space is for element's end, comma is for row's end, dot is for end of matrix.\n\n");
+ 
 
-	printf("Type in amount of columns: ");
+	printf("Do you're matrix.Type in amount of columns: ");
 
 	scanf("%d", &cols);
 
